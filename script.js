@@ -1,4 +1,4 @@
-
+// Advanced Scientific Calculator Logic
 
 // State Management
 let currentInput = "0";
